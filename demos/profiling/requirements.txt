@@ -1,15 +1,15 @@
-numpy==1.22.3
-opencv-python==4.5.5.64
-torch==1.11.0
+numpy==2.4.3
+opencv-python==4.8.1.78
+torch==2.8.0
 torchvision==0.12.0
 graphviz==0.20
 
-tqdm==4.64.0
+tqdm==4.66.3
 cython==0.29.28
 pycocotools==2.0.4
 
 # pytorch2trt:
-onnx==1.11.0
+onnx==1.17.0
 onnxruntime==1.11.1
 
 pycuda==2020.1
